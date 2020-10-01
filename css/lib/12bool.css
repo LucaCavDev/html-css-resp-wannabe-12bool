@@ -14,16 +14,13 @@
   clear: both;
 }
 
-
 [class*="col-"] {
   float: left;
 }
 
-
-
 /* regole delle colonne  */
 
-  /* versione smartphone */
+/* versione smartphone */
 @media all and (max-width: 768px){
 
   .col-xs-1 {
